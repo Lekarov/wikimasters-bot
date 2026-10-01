@@ -1,0 +1,11 @@
+config.json
+state.json
+tmp_images/
+browser_profile/
+autobot.log
+autobot.heartbeat
+debug_state.png
+login_debug.png
+.claude/
+CLAUDE.md
+
